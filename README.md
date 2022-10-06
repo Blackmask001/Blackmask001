@@ -1,7 +1,7 @@
 <h1 align="center">~ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">  BlackMask   ~</h1>
 
 <p align="center">
-<a href="https://twitter.com/Zeddicuses/" alt="twitter"><img src="https://img.shields.io/twitter/follow/th3_gr00t?color=1DA1F2&logo=twitter&style=for-the-badge" /></a>
+<a href="https://twitter.com/Zeddicuses/" alt="twitter"><img src="https://img.shields.io/twitter/follow/Blackmask001?color=1DA1F2&logo=twitter&style=for-the-badge" /></a>
 </p>
 
 <h3 align="center">I'm into Security Research.</h3>
